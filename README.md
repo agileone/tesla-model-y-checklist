@@ -48,18 +48,12 @@ should be approximately equal). An improperly installed windshield causes signif
 - [ ] Inspect the paint on the outside and the door jams, ensure panel corners do not have chips
 - [ ] Check for damage to black rocker panels
 - [ ] Check the tail light fit
-> * **Photo:** [Tail light (passenger side) not flush with panel](https://imgur.com/aPzCKKG)
-> * **Fix:** Not yet available
 - [ ] Check charging port fit (driver's side)
 - [ ] Inspect the tail lights for condensation
 - [ ] Inspect the undercarriage, look for damage, missing screws, or screws that are sticking out
-> * **Photo:** [Undercarriage screw found sticking out, not fully tightened](https://imgur.com/TozVn9I)
-> * **Fix:** Requires a 10mm wrench; ask the service center staff to inspect all screws and clips (they should've done it already) 
 - [ ] Inspect all wheel wells. Each wheel well is fitted with noise dampener covers that are attached to the body with a combination of plastic
 pins (pushed in all the way) and metal threaded pins (sticking out) with plastic nuts. Confirm that all plastic pins are present
 (there are no empty holes) and all metal pins (2 in each front wheel well, 4 in each rear wheel well) are present and properly attached.
-> * __Photo:__ [threaded pins with and without plastic nuts](https://imgur.com/6KqcVg4)
-> * __Fix:__ mobile service can fix it in minutes
 - [ ] Check alignment and gaps around headlights, trunk arms, roof, and frunk
 - [ ] Check for scratches, dents, or missing components under the vehicle.
 
@@ -76,8 +70,6 @@ pins (pushed in all the way) and metal threaded pins (sticking out) with plastic
 - [ ] Inspect the weather seals around door gaps and windows
 - [ ] Verify water guards below the rear windshield are clear
 - [ ] Inspect glass for ripples, distortion, scratches, or cracks
-> * __Photo:__ [rubber seal loose on driver door bottom](https://imgur.com/AodUDfg)
-> * __Fix:__ service center, replace rubber seal (Tesla calls it a "secondary seal")
 
 ## Interior
 
